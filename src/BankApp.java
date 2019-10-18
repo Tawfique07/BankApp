@@ -1,3 +1,11 @@
+/*
+* Name : Toufiqul Islam
+* Roll : 1910876107
+* session: 2018-2019
+* */
+
+
+
 import java.util.Scanner;
 
 public class BankApp {
@@ -26,7 +34,7 @@ public class BankApp {
         System.out.println("~Banking System App~");
         do{
 
-            System.out.println("\n1. Open Savings Account.\n2. Open Current Account.\n3. Deposit.\n4. Withdraw.\n5. Check Balance.\n6. Account Status." +
+            System.out.println("\n1. Open New Savings Account.\n2. Open New Current Account.\n3. Deposit.\n4. Withdraw.\n5. Check Balance.\n6. Account Status." +
                     "\n7. Exit.");
             System.out.print("Press here : ");
             choice= input.nextInt();

@@ -1,3 +1,9 @@
+/*
+ * Name : Toufiqul Islam
+ * Roll : 1910876107
+ * session: 2018-2019
+ * */
+
 public class SavingsAccount extends Bank {
     private final double MIN_ACC_BALANCE = 500;
     private final double INTEREST_RATE = 0.0275;
